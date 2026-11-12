@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+import openai
 import pandas as pd
 import io
 
