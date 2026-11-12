@@ -1,5 +1,3 @@
-streamlit
-pandas
-pypdf
-openai
-plotly
+streamlit>=1.32.0
+openai>=1.12.0
+pandas>=2.0.0
